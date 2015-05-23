@@ -1,0 +1,56 @@
+## urxvt config
+URxvt*termName: rxvt
+URxvt*background:  #222222
+URxvt*foreground:  #BBBBBB
+URxvt*scrollBar_right:	false
+URxvt*scrollBar:	false
+URxvt*inheritPixmap:	true
+URxvt*geometry:		80x40
+URxvt*tint:		gray
+URxvt*font: 9x15
+URxvt*shading:  10 
+MusicTerm.geometry: 150x31
+MusicTerm.shading:  100
+RTorrent.geometry: 150x31
+RTorrent.shading:  100
+
+! Normal
+! ! color0    black
+! ! color1    red
+! ! color2    green
+! ! color3    yellow
+! ! color4    blue
+! ! color5    purple
+! ! color6    cyan
+! ! color7    white
+! ! Light
+! ! color8    black
+! ! color9    red
+! ! color10    green
+! ! color11    yellow
+! ! color12    blue
+! ! color13    purple
+! ! color14    cyan
+! ! color15    white
+URxvt*color0:      #545054
+URxvt*color1:      #FF0000
+URxvt*color2:     #00FF00
+URxvt*color3:     #FfFf00
+URxvt*color4:     #FF00FF
+URxvt*color5:     #FFAF00
+URxvt*color6:     #50FCF8
+URxvt*color7:     #F8FCF8
+URxvt*color8:      #000001  
+URxvt*color9:      #FF0000
+URxvt*color10:      #00A800
+URxvt*color11:      #A85400
+URxvt*color12:      #000FFF
+URxvt*color13:      #A800A8
+URxvt*color14:      #00A8A8
+URxvt*color15:      #FFFFFF
+
+## xterm config
+xterm*termName: xterm
+xterm*shading : 20
+xterm*background: #000000
+xterm*foreground: #A8A8A8
